@@ -1,0 +1,26 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "description": "Assignment4",
+  "dependencies": {
+    "electron": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genpact498/project.git"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "Subhajit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genpact498/project/issues"
+  },
+  "homepage": "https://github.com/genpact498/project#readme"
+}
