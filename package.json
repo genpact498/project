@@ -7,7 +7,7 @@
   },
   "description": "Assignment4",
   "dependencies": {
-    "electron": "^6.0.0"
+    "electron": "^9.1.0"
   },
   "devDependencies": {},
   "repository": {
